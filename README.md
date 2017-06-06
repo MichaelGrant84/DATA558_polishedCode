@@ -13,13 +13,21 @@ The synthetic data is simply random numbers with different means labeled either 
 The required packages in order for this code to run properly are:
 
 copy
+
 matplotlib.pyplot
+
 numpy
+
 pandas
+
 scipy.linalg
+
 sklearn
+
 sklearn.linear_model
+
 sklearn.metrics
+
 sklearn.model_selection
 
 All packages are automatically imported in the code, but they will need to be pip or conda installed beforehand. 
