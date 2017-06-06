@@ -1,4 +1,4 @@
-# DATA558_polishedCode
+# DATA 558 Polished Code
 ## l2 - regularized logistic regression
 ## Michael Grant
 
